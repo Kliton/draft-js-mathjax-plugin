@@ -1,3 +1,6 @@
+Forked: https://github.com/efloti/draft-js-mathjax-plugin
+
+
 # DraftJS MathJax Plugin
 
 *This is a plugin for the `draft-js-plugins-editor`.*
